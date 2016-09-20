@@ -1,0 +1,4 @@
+amenities
+washer dryer
+fridge
+tv
